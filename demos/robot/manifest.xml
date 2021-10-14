@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="openface-recognition" version="0.0.1">
+ <names>
+  <name lang="en_US">openface-recognition</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">OpenFace recognition for NAO and Pepper robots</description>
+ </descriptions>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents/>
+</package>
